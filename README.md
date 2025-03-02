@@ -1,7 +1,23 @@
 # Capstone
 𝘛𝘦𝘢 𝘥𝘳𝘪𝘯𝘬𝘪𝘯𝘨 𝘪𝘯 𝘔𝘺𝘵𝘪𝘴𝘩𝘤𝘩𝘪, 𝘯𝘦𝘢𝘳 𝘔𝘰𝘴𝘤𝘰𝘸
 
-![](image.webp)
+![](capstone-01.webp)
+![](capstone-02.webp)
+![](capstone-03.webp)
+![](capstone-04.webp)
+![](capstone-05.webp)
+![](capstone-06.webp)
+![](capstone-07.webp)
+![](capstone-08.webp)
+![](capstone-10.webp)
+![](capstone-11.webp)
+![](capstone-12.webp)
+![](capstone-13.webp)
+![](capstone-14.webp)
+![](capstone-15.webp)
+![](capstone-16.webp)
+![](capstone-17.webp)
+![](capstone-18.webp)
 
 # My Prompt
 
